@@ -224,11 +224,12 @@ background-color: #E6E6E6;
 border-width: 2px;
 border-style: solid;
 border-color: #000000;
+border-bottom: none;
 padding-left: 0.01em;
 padding-top: 0.01em;
+padding-bottom: 0.186em;
 margin-left: 2px;
 margin-right: 2px;
-margin-bottom: 5px;
 width: 1492px;
 height: 524px;
 }
